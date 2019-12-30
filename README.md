@@ -1,7 +1,7 @@
 # Delphi-DDD-OO
 Projeto com código em exemplo do Object Pascal (Delphi) Abordagem DDD
 
-## Entidade Base
+## Classe Entidade Base
 
 ```delphi
 
@@ -66,7 +66,7 @@ end;
 end.
 
 ```
-## Cliente
+## Classe Cliente
 
 ```delphi
 
@@ -116,7 +116,7 @@ end.
 
 ```
 
-## Service do Cliente
+## Classe Service do Cliente
 
 ```delphi
 
